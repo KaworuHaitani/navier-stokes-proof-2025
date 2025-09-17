@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this proof for your research, please cite it as below."
+authors:
+  - family-names: Haitani
+    given-names: Kaworu
+    orcid: https://orcid.org/0000-0000-0000-0000  # ORCIDを後で更新
+title: "Global Existence and Smoothness for 3D Navier-Stokes Equations"
+version: 1.0.0
+date-released: 2025-09-17
+abstract: |
+  Complete proof of global existence and smoothness for 3D Navier-Stokes equations 
+  (Clay Millennium Problem case A) using W^0_{2,log} spaces and CDF wavelets. 
+  Formalized in Coq, validated by 1024^3-grid DNS.
+repository-code: https://github.com/navier-stokes-proof-2025
+license: MIT
+keywords:
+  - Navier-Stokes
+  - Millennium Problem
+  - Coq
+  - Wavelets
+  - Fluid Dynamics
